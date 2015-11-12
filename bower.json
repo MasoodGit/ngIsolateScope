@@ -1,0 +1,23 @@
+{
+  "name": "sharedScopes",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Masood",
+    "Alam <mohamed.masood.alam@philips.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.7"
+  }
+}
